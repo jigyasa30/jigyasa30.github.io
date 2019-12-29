@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Introduction to NCT and L4 support</title>
+    <link>https://jigyasa30.github.io/docs/nct-and-l4-support/</link>
+    <description>Recent content in Introduction to NCT and L4 support on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/nct-and-l4-support/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Initial Response (IR)</title>
+      <link>https://jigyasa30.github.io/docs/nct-and-l4-support/initial_response/</link>
+      <pubDate>Sat, 28 Dec 2019 13:13:22 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/nct-and-l4-support/initial_response/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Once the case is created, it is assigned to the Smart Tier-1 team.
+The smart T1 engineer sends the Initial response to the customer acknowledging that the ticket has been received and is under analysis.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Case Creation</title>
+      <link>https://jigyasa30.github.io/docs/nct-and-l4-support/case-creation/</link>
+      <pubDate>Sat, 28 Dec 2019 13:01:41 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/nct-and-l4-support/case-creation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;When a customer raises an issue, a case (ticket) is created with general details.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
