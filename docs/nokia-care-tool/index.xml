@@ -1,0 +1,71 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Introduction to Nokia Care Tool (NCT)</title>
+    <link>https://jigyasa30.github.io/docs/nokia-care-tool/</link>
+    <description>Recent content in Introduction to Nokia Care Tool (NCT) on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/nokia-care-tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Case Creation</title>
+      <link>https://jigyasa30.github.io/docs/nokia-care-tool/case-creation/</link>
+      <pubDate>Sat, 28 Dec 2019 13:01:41 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/nokia-care-tool/case-creation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;When a customer raises an issue, a case (ticket) is created with general details.
+&lt;img src=&#34;https://jigyasa30.github.io/case_creation.jpg&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+Once the case is created, then it is automatically dispatched to the workgroup (support engineers) with Worklog entry.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Initial Response (IR)</title>
+      <link>https://jigyasa30.github.io/docs/nokia-care-tool/initial_response/</link>
+      <pubDate>Sat, 28 Dec 2019 13:13:22 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/nokia-care-tool/initial_response/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Once the case is created, it is assigned to the Smart Tier-1 team.
+The smart T1 engineer sends the Initial response to the customer acknowledging that the ticket has been received and is under analysis.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/initial_response.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;
+After sending IR to the customer, smart tier-1 engineer assigns this case to the concerned support team for analysis&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Custome Response to CIR</title>
+      <link>https://jigyasa30.github.io/docs/nokia-care-tool/custome_response_cir/</link>
+      <pubDate>Fri, 10 Jan 2020 13:59:00 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/nokia-care-tool/custome_response_cir/</guid>
+      <description>
+        
+        
+        &lt;p&gt;When a customer responds to the CIR, then support engineer changes the case status from &lt;strong&gt;Pending/Customer&lt;/strong&gt; to &lt;strong&gt;Case in Progress&lt;/strong&gt;.
+&lt;br&gt;
+&lt;img src=&#34;https://jigyasa30.github.io/customer_response_to_CIR.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
