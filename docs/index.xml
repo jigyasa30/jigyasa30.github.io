@@ -32,6 +32,28 @@ Once the case is created, then it is automatically dispatched to the workgroup (
     </item>
     
     <item>
+      <title>Docs: Timeline and Jira Fields</title>
+      <link>https://jigyasa30.github.io/docs/l4-support/timeline_and_jira_fields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/l4-support/timeline_and_jira_fields/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Timeline for L4 support team is set in Jira ticket. This timeline depends on the ticket type and the SLA agreed with the customer in NCT.
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A Jira ticket is always compliant with the NCT SLA.&lt;/p&gt;
+
+&lt;/div&gt;
+
+It is preferable/mandatory to set the certain fields in Jira during ticket creation for the L4 support team.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Initial Response (IR)</title>
       <link>https://jigyasa30.github.io/docs/nokia-care-tool/initial_response/</link>
       <pubDate>Sat, 28 Dec 2019 13:13:22 +0530</pubDate>
