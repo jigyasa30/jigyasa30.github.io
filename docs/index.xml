@@ -54,6 +54,24 @@ It is preferable/mandatory to set the certain fields in Jira during ticket creat
     </item>
     
     <item>
+      <title>Docs: Create date of NCT ticket</title>
+      <link>https://jigyasa30.github.io/docs/l4-support/create_date_of_nct_ticket/</link>
+      <pubDate>Sat, 11 Jan 2020 12:58:04 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/l4-support/create_date_of_nct_ticket/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This field is set to provide the &lt;a href=&#34;https://jigyasa30.github.io/docs/nokia-care-tool&#34;&gt;NCT&lt;/a&gt; ticket creation date.
+&lt;img src=&#34;https://jigyasa30.github.io/create_ticket.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+Currently, there is no separate field available to provide this information; therefore, it is mentioned in the &lt;strong&gt;Description&lt;/strong&gt; field. A separate field will be available in the next Jira release.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Initial Response (IR)</title>
       <link>https://jigyasa30.github.io/docs/nokia-care-tool/initial_response/</link>
       <pubDate>Sat, 28 Dec 2019 13:13:22 +0530</pubDate>
@@ -72,6 +90,22 @@ After sending IR to the customer, smart tier-1 engineer assigns this case to the
     </item>
     
     <item>
+      <title>Docs: Due date for Jira ticket</title>
+      <link>https://jigyasa30.github.io/docs/l4-support/due_date_for_ticket/</link>
+      <pubDate>Sat, 11 Jan 2020 12:59:01 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/l4-support/due_date_for_ticket/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This field sets the due date to fix the Jira ticket by the L4 support team. This timeline is set to 5-10 days lesser from the NCT ticket end date. The L2/L3 support team keeps 5-10 days as a buffer for final case closure.
+&lt;img src=&#34;https://jigyasa30.github.io/due_ddate.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Custome Response to CIR</title>
       <link>https://jigyasa30.github.io/docs/nokia-care-tool/custome_response_cir/</link>
       <pubDate>Fri, 10 Jan 2020 13:59:00 +0530</pubDate>
@@ -84,6 +118,60 @@ After sending IR to the customer, smart tier-1 engineer assigns this case to the
 &lt;br&gt;
 &lt;img src=&#34;https://jigyasa30.github.io/customer_response_to_CIR.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
 &lt;br&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: L3 analysis</title>
+      <link>https://jigyasa30.github.io/docs/l4-support/l3_analysis/</link>
+      <pubDate>Sat, 11 Jan 2020 12:59:30 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/l4-support/l3_analysis/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This field is set to provide the brief description of the issue and troubleshooting details till date. This information is provided in the &lt;strong&gt;Description&lt;/strong&gt; field of the Jira ticket.
+&lt;img src=&#34;https://jigyasa30.github.io/L3_analysis.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Logs and traces</title>
+      <link>https://jigyasa30.github.io/docs/l4-support/logs_traces/</link>
+      <pubDate>Sat, 11 Jan 2020 12:59:44 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/l4-support/logs_traces/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This field is set to provide the issue logs of the system captured by the Support engineer. This information can be provided as an attachment in the Attachment field.
+&lt;img src=&#34;https://jigyasa30.github.io/logs_traces.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: End date of NCT ticket</title>
+      <link>https://jigyasa30.github.io/docs/l4-support/end_date_of_nct_ticket/</link>
+      <pubDate>Sat, 11 Jan 2020 13:00:07 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/l4-support/end_date_of_nct_ticket/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This field is set to provide the end date of the NCT ticket.
+&lt;img src=&#34;https://jigyasa30.github.io/end_date.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Currently, there is no separate field available to provide this information; therefore, it is mentioned in the &lt;strong&gt;Description&lt;/strong&gt; field. A separate field will be available in the next Jira release.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
 
       </description>
     </item>
