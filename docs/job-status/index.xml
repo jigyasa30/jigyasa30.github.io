@@ -53,23 +53,5 @@
       </description>
     </item>
     
-    <item>
-      <title>Docs: Create date of NCT ticket</title>
-      <link>https://jigyasa30.github.io/docs/job-status/create_date_of_nct_ticket/</link>
-      <pubDate>Sat, 11 Jan 2020 12:58:04 +0530</pubDate>
-      
-      <guid>https://jigyasa30.github.io/docs/job-status/create_date_of_nct_ticket/</guid>
-      <description>
-        
-        
-        &lt;p&gt;This field is set to provide the &lt;a href=&#34;https://jigyasa30.github.io/docs/nokia-care-tool&#34;&gt;NCT&lt;/a&gt; ticket creation date.
-&lt;img src=&#34;https://jigyasa30.github.io/create_ticket.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
-&lt;br&gt;
-&lt;br&gt;
-Currently, there is no separate field available to provide this information; therefore, it is mentioned in the &lt;strong&gt;Description&lt;/strong&gt; field. A separate field will be available in the next Jira release.&lt;/p&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>
