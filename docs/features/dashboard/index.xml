@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Dashboard</title>
+    <link>https://jigyasa30.github.io/docs/features/dashboard/</link>
+    <description>Recent content in Dashboard on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/features/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Alerts History</title>
+      <link>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:20 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alerts Screener</title>
+      <link>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:26 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

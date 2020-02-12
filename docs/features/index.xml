@@ -1,0 +1,61 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Features</title>
+    <link>https://jigyasa30.github.io/docs/features/</link>
+    <description>Recent content in Features on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Feb 2020 15:23:23 +0530</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Dashboard</title>
+      <link>https://jigyasa30.github.io/docs/features/dashboard/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/dashboard/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Nokia Care Tool (NCT) is a Nokia Case handling Tool which is used to track the issues raised by the customer.
+Smart tier-1 team receives the ticket and provides the Initial Response to the same. The T1 team then dispatches the case to concerned support team (L2 / L3, whichever applicable).
+During analysis, if support team finds that the issue reported is a bug or a code then they raise the same with concerned L4 support (delivery team) team via Jira.
+Workflow of NCT from case creation to case closure highlighting the L4 support is discussed in the subsequent sections.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Time Window</title>
+      <link>https://jigyasa30.github.io/docs/features/time_window/</link>
+      <pubDate>Wed, 12 Feb 2020 15:23:23 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/time_window/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Search</title>
+      <link>https://jigyasa30.github.io/docs/features/alertlens_search/</link>
+      <pubDate>Wed, 12 Feb 2020 15:23:06 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/alertlens_search/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

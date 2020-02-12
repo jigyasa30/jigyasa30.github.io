@@ -1,0 +1,122 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Settings</title>
+    <link>https://jigyasa30.github.io/docs/settings/</link>
+    <description>Recent content in Settings on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/settings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Alert Definitions</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert_definitions/</link>
+      <pubDate>Wed, 12 Feb 2020 16:03:43 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert_definitions/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alert Notifications</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Manage AD Groups</title>
+      <link>https://jigyasa30.github.io/docs/settings/ad_groups/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:12 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/ad_groups/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Manage Nodes</title>
+      <link>https://jigyasa30.github.io/docs/settings/nodes/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:25 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/nodes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Reconfigure Data Source</title>
+      <link>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/</link>
+      <pubDate>Wed, 12 Feb 2020 16:36:42 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Manage Properties</title>
+      <link>https://jigyasa30.github.io/docs/settings/properties/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:41 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/properties/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Manage Store</title>
+      <link>https://jigyasa30.github.io/docs/settings/store/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:49 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/store/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Time Zone</title>
+      <link>https://jigyasa30.github.io/docs/settings/timezone/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:59 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/timezone/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

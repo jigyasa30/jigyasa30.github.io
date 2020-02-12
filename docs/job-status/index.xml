@@ -1,0 +1,75 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Job Status</title>
+    <link>https://jigyasa30.github.io/docs/job-status/</link>
+    <description>Recent content in Job Status on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Jan 2020 14:16:36 +0530</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/job-status/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Summarizer</title>
+      <link>https://jigyasa30.github.io/docs/job-status/summarizer/</link>
+      <pubDate>Wed, 12 Feb 2020 15:38:22 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/summarizer/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Training</title>
+      <link>https://jigyasa30.github.io/docs/job-status/training/</link>
+      <pubDate>Wed, 12 Feb 2020 15:38:28 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/training/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Inference</title>
+      <link>https://jigyasa30.github.io/docs/job-status/inference/</link>
+      <pubDate>Wed, 12 Feb 2020 15:38:36 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/inference/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Create date of NCT ticket</title>
+      <link>https://jigyasa30.github.io/docs/job-status/create_date_of_nct_ticket/</link>
+      <pubDate>Sat, 11 Jan 2020 12:58:04 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/create_date_of_nct_ticket/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This field is set to provide the &lt;a href=&#34;https://jigyasa30.github.io/docs/nokia-care-tool&#34;&gt;NCT&lt;/a&gt; ticket creation date.
+&lt;img src=&#34;https://jigyasa30.github.io/create_ticket.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+Currently, there is no separate field available to provide this information; therefore, it is mentioned in the &lt;strong&gt;Description&lt;/strong&gt; field. A separate field will be available in the next Jira release.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
     <link>https://jigyasa30.github.io/docs/installation/</link>
     <description>Recent content in Installation on Technical Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://jigyasa30.github.io/docs/installation/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,78 +15,28 @@
     
     
     <item>
-      <title>Docs: Requirements</title>
-      <link>https://jigyasa30.github.io/docs/installation/requirements/</link>
-      <pubDate>Fri, 29 Nov 2019 22:53:54 +0530</pubDate>
+      <title>Docs: AMI Model</title>
+      <link>https://jigyasa30.github.io/docs/installation/ami_model/</link>
+      <pubDate>Wed, 12 Feb 2020 15:19:11 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/installation/requirements/</guid>
+      <guid>https://jigyasa30.github.io/docs/installation/ami_model/</guid>
       <description>
         
         
-        &lt;p&gt;This page includes useful information on the supported Operating Systems as well as the hardware requirements that are needed to install and use Grafana.&lt;/p&gt;
-&lt;h2 id=&#34;supported-operating-systems&#34;&gt;Supported operating systems&lt;/h2&gt;
-&lt;p&gt;The following operating systems are supported for Grafana installation:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://grafana.com/docs/installation/debian&#34;&gt;Debian / Ubuntu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://grafana.com/docs/installation/rpm&#34;&gt;RPM-based Linux (CentOS, Fedora, OpenSuse, RedHat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://grafana.com/docs/installation/mac&#34;&gt;macOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://grafana.com/docs/installation/windows&#34;&gt;Windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;unsupported-operating-systems&#34;&gt;Unsupported operating systems&lt;/h2&gt;
-&lt;p&gt;Installation of Grafana on other operating systems is possible, but not supported. Please see the &lt;a href=&#34;https://grafana.com/docs/project/building_from_source/#building-grafana-from-source&#34;&gt;building from source&lt;/a&gt; guide for more information.&lt;/p&gt;
-&lt;h2 id=&#34;hardware-requirements&#34;&gt;Hardware requirements&lt;/h2&gt;
-&lt;p&gt;Grafana does not use a lot of resources and is very lightweight in use of memory and CPU. Minimum recommendation is 255mb of memory and 1 CPU.&lt;/p&gt;
-&lt;p&gt;Depending on what features are being used and to what extent the requirements varies. Features that consume and requires more resources:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Server side rendering of images&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://grafana.com/docs/alerting/rules/&#34;&gt;Alerting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Data source proxy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
-&lt;p&gt;Grafana requires a database to store its configuration data, e.g. users, data sources and dashboards. The exact requirements depend on the size of the Grafana installation (e.g. the number of users, data sources, dashboards, features in use etc).&lt;/p&gt;
-&lt;p&gt;Grafana supports the following databases:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SQLite&lt;/li&gt;
-&lt;li&gt;MySQL&lt;/li&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Per default Grafana ships with and uses SQLite, which is an embedded database stored on disk in Grafana’s installation location.&lt;/p&gt;
-&lt;h2 id=&#34;supported-web-browsers&#34;&gt;Supported web browsers&lt;/h2&gt;
-&lt;p&gt;Grafana is supported in the current version of the following browsers. Older versions of these browsers might not be supported, so you should always upgrade to the latest version when using Grafana.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Chrome/Chromium&lt;/li&gt;
-&lt;li&gt;Firefox&lt;/li&gt;
-&lt;li&gt;Safari&lt;/li&gt;
-&lt;li&gt;Microsoft Edge&lt;/li&gt;
-&lt;li&gt;Internet Explorer 11 is only fully supported in Grafana versions prior v6.0.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Note: Always enable JavaScript in your browser. Running Grafana without JavaScript enabled in the browser is not supported.&lt;/p&gt;
-&lt;/blockquote&gt;
-
+        
       </description>
     </item>
     
     <item>
-      <title>Docs: Features</title>
-      <link>https://jigyasa30.github.io/docs/installation/features/</link>
-      <pubDate>Fri, 29 Nov 2019 22:50:46 +0530</pubDate>
+      <title>Docs: SaaS Model</title>
+      <link>https://jigyasa30.github.io/docs/installation/saas_model/</link>
+      <pubDate>Wed, 12 Feb 2020 15:19:22 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/installation/features/</guid>
+      <guid>https://jigyasa30.github.io/docs/installation/saas_model/</guid>
       <description>
         
         
-        &lt;h1 id=&#34;alert-list-panel&#34;&gt;Alert List Panel&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://grafana.com/docs/img/docs/v45/alert-list-panel.png&#34;&gt;&lt;img src=&#34;https://grafana.com/docs/img/docs/v45/alert-list-panel.png&#34; alt=&#34;img&#34;&gt;&lt;img src=&#34;https://grafana.com/docs/assets/img/zoom.png&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The alert list panel allows you to display your dashboards alerts. The list can be configured to show current state or recent state changes. You can read more about alerts &lt;a href=&#34;https://grafana.com/docs/alerting/rules&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Show&lt;/strong&gt;: Lets you choose between current state or recent state changes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Max Items&lt;/strong&gt;: Max items set the maximum of items in a list.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sort Order&lt;/strong&gt;: Lets you sort your list alphabetically(asc/desc) or by importance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Alerts From&lt;/strong&gt; This Dashboard`: Shows alerts only from the dashboard the alert list is in.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;State Filter&lt;/strong&gt;: Here you can filter your list by one or more parameters.&lt;/li&gt;
-&lt;/ol&gt;
-
+        
       </description>
     </item>
     

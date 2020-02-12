@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Reconfigure Data Source</title>
+    <link>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/</link>
+    <description>Recent content in Reconfigure Data Source on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Feb 2020 16:36:42 +0530</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/settings/reconfigure-data-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Data Source Authentication Parameters</title>
+      <link>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</link>
+      <pubDate>Wed, 12 Feb 2020 16:36:42 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

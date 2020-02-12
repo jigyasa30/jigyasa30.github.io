@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Login</title>
+    <link>https://jigyasa30.github.io/docs/login/</link>
+    <description>Recent content in Login on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Feb 2020 15:16:26 +0530</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/login/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Users</title>
+      <link>https://jigyasa30.github.io/docs/login/users/</link>
+      <pubDate>Wed, 12 Feb 2020 15:16:26 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/login/users/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

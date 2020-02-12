@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Alert Notifications</title>
+    <link>https://jigyasa30.github.io/docs/settings/alert-notifications/</link>
+    <description>Recent content in Alert Notifications on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/settings/alert-notifications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Notification Channels Configuration</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/channel_config/</link>
+      <pubDate>Wed, 12 Feb 2020 16:36:17 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/channel_config/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

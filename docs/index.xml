@@ -14,11 +14,154 @@
     
     
     <item>
-      <title>Docs: Case Creation</title>
-      <link>https://jigyasa30.github.io/docs/nokia-care-tool/case-creation/</link>
-      <pubDate>Sat, 28 Dec 2019 13:01:41 +0530</pubDate>
+      <title>Docs: Dry Run</title>
+      <link>https://jigyasa30.github.io/docs/quick-start/dry_run/</link>
+      <pubDate>Wed, 12 Feb 2020 16:42:42 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/nokia-care-tool/case-creation/</guid>
+      <guid>https://jigyasa30.github.io/docs/quick-start/dry_run/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alert Definitions</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert_definitions/</link>
+      <pubDate>Wed, 12 Feb 2020 16:03:43 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert_definitions/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Summarizer</title>
+      <link>https://jigyasa30.github.io/docs/job-status/summarizer/</link>
+      <pubDate>Wed, 12 Feb 2020 15:38:22 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/summarizer/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alerts History</title>
+      <link>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:20 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AMI Model</title>
+      <link>https://jigyasa30.github.io/docs/installation/ami_model/</link>
+      <pubDate>Wed, 12 Feb 2020 15:19:11 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/installation/ami_model/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Anomaly Detection Options</title>
+      <link>https://jigyasa30.github.io/docs/quick-start/anomal_det_opt/</link>
+      <pubDate>Wed, 12 Feb 2020 16:42:57 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/quick-start/anomal_det_opt/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Training</title>
+      <link>https://jigyasa30.github.io/docs/job-status/training/</link>
+      <pubDate>Wed, 12 Feb 2020 15:38:28 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/training/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alerts Screener</title>
+      <link>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:26 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SaaS Model</title>
+      <link>https://jigyasa30.github.io/docs/installation/saas_model/</link>
+      <pubDate>Wed, 12 Feb 2020 15:19:22 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/installation/saas_model/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Manage AD Groups</title>
+      <link>https://jigyasa30.github.io/docs/settings/ad_groups/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:12 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/ad_groups/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Inference</title>
+      <link>https://jigyasa30.github.io/docs/job-status/inference/</link>
+      <pubDate>Wed, 12 Feb 2020 15:38:36 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-status/inference/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Case Creation</title>
+      <link>https://jigyasa30.github.io/docs/quick-start/case-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/quick-start/case-creation/</guid>
       <description>
         
         
@@ -32,33 +175,24 @@ Once the case is created, then it is automatically dispatched to the workgroup (
     </item>
     
     <item>
-      <title>Docs: Timeline and Jira Fields</title>
-      <link>https://jigyasa30.github.io/docs/l4-support/timeline_and_jira_fields/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Docs: Manage Nodes</title>
+      <link>https://jigyasa30.github.io/docs/settings/nodes/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:25 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/l4-support/timeline_and_jira_fields/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/nodes/</guid>
       <description>
         
         
-        &lt;p&gt;Timeline for L4 support team is set in Jira ticket. This timeline depends on the ticket type and the SLA agreed with the customer in NCT.
-
-
-&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A Jira ticket is always compliant with the NCT SLA.&lt;/p&gt;
-
-&lt;/div&gt;
-
-It is preferable/mandatory to set the certain fields in Jira during ticket creation for the L4 support team.&lt;/p&gt;
-
+        
       </description>
     </item>
     
     <item>
       <title>Docs: Create date of NCT ticket</title>
-      <link>https://jigyasa30.github.io/docs/l4-support/create_date_of_nct_ticket/</link>
+      <link>https://jigyasa30.github.io/docs/job-status/create_date_of_nct_ticket/</link>
       <pubDate>Sat, 11 Jan 2020 12:58:04 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/l4-support/create_date_of_nct_ticket/</guid>
+      <guid>https://jigyasa30.github.io/docs/job-status/create_date_of_nct_ticket/</guid>
       <description>
         
         
@@ -72,107 +206,106 @@ Currently, there is no separate field available to provide this information; the
     </item>
     
     <item>
-      <title>Docs: Initial Response (IR)</title>
-      <link>https://jigyasa30.github.io/docs/nokia-care-tool/initial_response/</link>
-      <pubDate>Sat, 28 Dec 2019 13:13:22 +0530</pubDate>
+      <title>Docs: Manage Properties</title>
+      <link>https://jigyasa30.github.io/docs/settings/properties/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:41 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/nokia-care-tool/initial_response/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/properties/</guid>
       <description>
         
         
-        &lt;p&gt;Once the case is created, it is assigned to the Smart Tier-1 team.
-The smart T1 engineer sends the Initial response to the customer acknowledging that the ticket has been received and is under analysis.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/initial_response.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
-&lt;br&gt;
-After sending IR to the customer, smart tier-1 engineer assigns this case to the concerned support team for analysis&lt;/p&gt;
-
+        
       </description>
     </item>
     
     <item>
-      <title>Docs: Due date for Jira ticket</title>
-      <link>https://jigyasa30.github.io/docs/l4-support/due_date_for_ticket/</link>
-      <pubDate>Sat, 11 Jan 2020 12:59:01 +0530</pubDate>
+      <title>Docs: Manage Store</title>
+      <link>https://jigyasa30.github.io/docs/settings/store/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:49 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/l4-support/due_date_for_ticket/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/store/</guid>
       <description>
         
         
-        &lt;p&gt;This field sets the due date to fix the Jira ticket by the L4 support team. This timeline is set to 5-10 days lesser from the NCT ticket end date. The L2/L3 support team keeps 5-10 days as a buffer for final case closure.
-&lt;img src=&#34;https://jigyasa30.github.io/due_ddate.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
-&lt;br&gt;&lt;/p&gt;
-
+        
       </description>
     </item>
     
     <item>
-      <title>Docs: Custome Response to CIR</title>
-      <link>https://jigyasa30.github.io/docs/nokia-care-tool/custome_response_cir/</link>
-      <pubDate>Fri, 10 Jan 2020 13:59:00 +0530</pubDate>
+      <title>Docs: Time Zone</title>
+      <link>https://jigyasa30.github.io/docs/settings/timezone/</link>
+      <pubDate>Wed, 12 Feb 2020 16:04:59 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/nokia-care-tool/custome_response_cir/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/timezone/</guid>
       <description>
         
         
-        &lt;p&gt;When a customer responds to the CIR, then support engineer changes the case status from &lt;strong&gt;Pending/Customer&lt;/strong&gt; to &lt;strong&gt;Case in Progress&lt;/strong&gt;.
-&lt;br&gt;
-&lt;img src=&#34;https://jigyasa30.github.io/customer_response_to_CIR.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
-&lt;br&gt;&lt;/p&gt;
-
+        
       </description>
     </item>
     
     <item>
-      <title>Docs: L3 analysis</title>
-      <link>https://jigyasa30.github.io/docs/l4-support/l3_analysis/</link>
-      <pubDate>Sat, 11 Jan 2020 12:59:30 +0530</pubDate>
+      <title>Docs: Data Source Authentication Parameters</title>
+      <link>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</link>
+      <pubDate>Wed, 12 Feb 2020 16:36:42 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/l4-support/l3_analysis/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</guid>
       <description>
         
         
-        &lt;p&gt;This field is set to provide the brief description of the issue and troubleshooting details till date. This information is provided in the &lt;strong&gt;Description&lt;/strong&gt; field of the Jira ticket.
-&lt;img src=&#34;https://jigyasa30.github.io/L3_analysis.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
-&lt;br&gt;&lt;/p&gt;
-
+        
       </description>
     </item>
     
     <item>
-      <title>Docs: Logs and traces</title>
-      <link>https://jigyasa30.github.io/docs/l4-support/logs_traces/</link>
-      <pubDate>Sat, 11 Jan 2020 12:59:44 +0530</pubDate>
+      <title>Docs: Notification Channels Configuration</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/channel_config/</link>
+      <pubDate>Wed, 12 Feb 2020 16:36:17 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/l4-support/logs_traces/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/channel_config/</guid>
       <description>
         
         
-        &lt;p&gt;This field is set to provide the issue logs of the system captured by the Support engineer. This information can be provided as an attachment in the Attachment field.
-&lt;img src=&#34;https://jigyasa30.github.io/logs_traces.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;&lt;/p&gt;
-
+        
       </description>
     </item>
     
     <item>
-      <title>Docs: End date of NCT ticket</title>
-      <link>https://jigyasa30.github.io/docs/l4-support/end_date_of_nct_ticket/</link>
-      <pubDate>Sat, 11 Jan 2020 13:00:07 +0530</pubDate>
+      <title>Docs: Time Window</title>
+      <link>https://jigyasa30.github.io/docs/features/time_window/</link>
+      <pubDate>Wed, 12 Feb 2020 15:23:23 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/l4-support/end_date_of_nct_ticket/</guid>
+      <guid>https://jigyasa30.github.io/docs/features/time_window/</guid>
       <description>
         
         
-        &lt;p&gt;This field is set to provide the end date of the NCT ticket.
-&lt;img src=&#34;https://jigyasa30.github.io/end_date.png&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
-&lt;br&gt;
-
-
-&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Currently, there is no separate field available to provide this information; therefore, it is mentioned in the &lt;strong&gt;Description&lt;/strong&gt; field. A separate field will be available in the next Jira release.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/p&gt;
-
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Search</title>
+      <link>https://jigyasa30.github.io/docs/features/alertlens_search/</link>
+      <pubDate>Wed, 12 Feb 2020 15:23:06 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/features/alertlens_search/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Users</title>
+      <link>https://jigyasa30.github.io/docs/login/users/</link>
+      <pubDate>Wed, 12 Feb 2020 15:16:26 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/login/users/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     

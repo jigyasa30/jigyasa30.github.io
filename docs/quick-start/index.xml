@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Quick Start</title>
+    <link>https://jigyasa30.github.io/docs/quick-start/</link>
+    <description>Recent content in Quick Start on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/quick-start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Dry Run</title>
+      <link>https://jigyasa30.github.io/docs/quick-start/dry_run/</link>
+      <pubDate>Wed, 12 Feb 2020 16:42:42 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/quick-start/dry_run/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Anomaly Detection Options</title>
+      <link>https://jigyasa30.github.io/docs/quick-start/anomal_det_opt/</link>
+      <pubDate>Wed, 12 Feb 2020 16:42:57 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/quick-start/anomal_det_opt/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Case Creation</title>
+      <link>https://jigyasa30.github.io/docs/quick-start/case-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/quick-start/case-creation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;When a customer raises an issue, a case (ticket) is created with general details.
+&lt;img src=&#34;https://jigyasa30.github.io/case_creation.jpg&#34; alt=&#34;alt Photo&#34; title=&#34;Photo&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+Once the case is created, then it is automatically dispatched to the workgroup (support engineers) with Worklog entry.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
