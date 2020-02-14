@@ -35,8 +35,8 @@
 
 
 
-<link rel="preload" href="/scss/main.min.2b1ede359e31806c37641123da5bc4ecba0fa95f32b5f546c5f4b4907fef5e67.css" as="style">
-<link href="/scss/main.min.2b1ede359e31806c37641123da5bc4ecba0fa95f32b5f546c5f4b4907fef5e67.css" rel="stylesheet" integrity="">
+<link rel="preload" href="/scss/main.min.52c5989c4b16d701f7cb20f5becdc2334ccc89087673d1e06729f6103ae17d8c.css" as="style">
+<link href="/scss/main.min.52c5989c4b16d701f7cb20f5becdc2334ccc89087673d1e06729f6103ae17d8c.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -522,7 +522,133 @@
 <div class="td-content">
 	<h1>Quick Start</h1>
 	
-	
+	<p>Let’s walk through the end-to-end functionality of <strong>AlertLens</strong>.</p>
+<h4 id="log-in-for-the-first-time">Log in for the first time</h4>
+<ol>
+<li>
+<p>Go to <a href="https://test1.alertlens.boltanalytics.com">https://test1.alertlens.boltanalytics.com</a>.</p>
+</li>
+<li>
+<p>Login with the default credentials.</p>
+<p>You will be prompted to change the default password at first login.</p>
+</li>
+<li>
+<p>Follow the online instructions and click the <strong>Change Password</strong> button.</p>
+<p>You will be redirected to the screen displaying the <strong>Data Sources</strong> pane.</p>
+</li>
+</ol>
+<h4 id="add-data-source">Add Data Source</h4>
+<p>Let’s configure the data sources from which <strong>AlertLens</strong> gathers metrics for creating alerts. You can add freely available Grafana Wikimedia as a data source <a href="https://grafana.wikimedia.org:">https://grafana.wikimedia.org:</a></p>
+<ol start="4">
+<li>
+<p>Click the <strong>Add</strong> button next to the Grafana data source.</p>
+<p>A pop up appears.</p>
+</li>
+<li>
+<p>Enter values to configure the data source and click the <strong>Submit</strong> button. Further, click the <strong>Submit</strong> button on the main screen.
+<br>
+<img src="/grafana_data_source.JPG" alt="img"><br>
+​    A Data Source is configured.</p>
+</li>
+</ol>
+<h4 id="create-alert-conditions">Create Alert Conditions</h4>
+<p>Before creating a job, let’s walk through the steps required to create alert conditions.</p>
+<ol start="6">
+<li>
+<p>Click the <strong>Gearbox</strong> icon in the top right corner, select <strong>Alert</strong> -&gt; <strong>Definitions</strong> and click the <strong>Add</strong> button.</p>
+<p>The <strong>Add Alert</strong> pop up appears.</p>
+</li>
+<li>
+<p>Setup <strong>Warning</strong> and <strong>Critical</strong> conditions.</p>
+<p>Let’s name it “Sharp Spike” to indicate that you want to get alert anytime a single anomalous point is detected.</p>
+<p>AlertLens scores each point on a scale of 0 to 100:</p>
+<ul>
+<li>0 means not anomalous</li>
+<li>100 means system extremely anomalous</li>
+</ul>
+<p>Let’s also give a metric threshold of 10 to suppress any low-value alerts.</p>
+<p>For example, a time-series may be around zero most of the times and you want to get alerted only when a much higher non-zero value occurs. Therefore, define the <strong>Warning</strong> threshold as when AlertLens score is above 50 and the <strong>Critical</strong> threshold when AlertLens score is above 70.</p>
+<p><img src="/alert_definitions.PNG" alt="img"></p>
+</li>
+</ol>
+<h4 id="add-job-using-grafana-add-job-flow">Add Job Using Grafana Add Job Flow</h4>
+<ol start="8">
+<li>
+<p>Open <a href="https://grafana.wikimedia.org/d/000000278/mysql-aggregated?orgId=1">https://grafana.wikimedia.org/d/000000278/mysql-aggregated?orgId=1</a> in another browser tab.</p>
+<p>Let’s add the panel - <strong>Rows read</strong> in this dashboard as a job.</p>
+<p><img src="/grafana_dashboard.PNG" alt="img"></p>
+</li>
+<li>
+<p>Click the <strong>Configuration</strong> tab and click the <strong>New Job</strong> button.</p>
+</li>
+<li>
+<p>Select the <strong>Grafana Easy Flow</strong> workflow.</p>
+</li>
+<li>
+<p>Select <strong>Wikimedia</strong> as the data source.</p>
+</li>
+<li>
+<p>Select the<strong>General</strong> as the folder.</p>
+</li>
+<li>
+<p>Select <strong>MySQL Aggregated</strong> as the dashboard.</p>
+</li>
+<li>
+<p>Scroll in the <strong>Panels</strong> and select <strong>Rows read.</strong></p>
+</li>
+<li>
+<p>Enter the following values in the <strong>Variables</strong> text boxes:</p>
+<p>a.   <strong>Datacenter</strong>: eqiad prometheus/ops</p>
+<p>b.   <strong>Group</strong>: .*</p>
+<p>c.    <strong>Shard</strong>: .*</p>
+<p>d.   <strong>Role</strong>: .*</p>
+</li>
+<li>
+<p>Select <strong>Sharp Spike</strong> as the alert.</p>
+</li>
+<li>
+<p>Click <strong>Submit</strong>.</p>
+<p>The following screen appears.</p>
+<p><img src="/job_summary.PNG" alt="img"></p>
+</li>
+<li>
+<p>Click <strong>Save</strong>. Congrats! The First job has been created.</p>
+<p><img src="/job_created.PNG" alt="img"></p>
+<p>Now, it will gather the data from <strong>Data Source</strong> and then perform <strong>Training</strong> and start <strong>Inference</strong>.</p>
+</li>
+</ol>
+<h4 id="training-and-inference">Training and Inference</h4>
+<p>By default, the <strong>Training</strong> and <strong>Inference</strong> are turned off.</p>
+<ol start="19">
+<li>
+<p>Go to the <strong>Training</strong> and <strong>Inference</strong> tabs and click the <strong>Start All</strong> button.</p>
+<p>By default, it goes back and gets 4 weeks of historical data (as shown in the <strong>Scheduled for</strong> column above). It should take about an hour. You can monitor the status in the <strong>Summarizer</strong> sub-tab. The whole process probably takes around an hour.</p>
+</li>
+</ol>
+<h4 id="alert-notifications">Alert Notifications</h4>
+<p>After Training and Inference has caught up to current time, walk through the steps to set <strong>Alert Notifications</strong>:</p>
+<ol start="20">
+<li>
+<p>Go to <strong>Dashboard</strong> -&gt; <strong>Alert History</strong> and see what Alerts have been triggered.</p>
+</li>
+<li>
+<p>Click the <strong>Gearbox</strong> icon in the top right corner, select <strong>Alert</strong> -&gt; <strong>Notifications</strong>.</p>
+<p>Let’s add a notification by <strong>Email</strong>.</p>
+</li>
+<li>
+<p>Click the <strong>Add</strong> button and choose <strong>Type</strong> as <strong>Email.</strong></p>
+<p>You can add your Gmail account as the sender and the recipient.</p>
+<p><strong>For Example</strong>, check the following site for the settings: <a href="https://www.siteground.com/kb/google_free_smtp_server/">https://www.siteground.com/kb/google_free_smtp_server/</a></p>
+<p><img src="/notification_email.PNG" alt="img"></p>
+</li>
+<li>
+<p>Click the <strong>Test</strong> button to make sure it works.</p>
+</li>
+<li>
+<p>Now, go back to <strong>Alert</strong> -&gt; <strong>Definitions</strong>. Edit the alert and enable the alerting method by choosing <strong>Notification</strong>  as <strong>Email</strong>.</p>
+</li>
+</ol>
+
         
 	
 	
