@@ -471,13 +471,15 @@
 
 
 
+
+
 <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
 
 
 
 
 
-<a href="https://github.com/google/docsy-example/edit/master/content/en/docs%5cQuickstart%5c_index.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/google/docsy-example/edit/master/content/en/docs/Quickstart/_index.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
 <a href="https://github.com/google/docsy-example/issues/new?title=Quick%20Start" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
 
 
@@ -489,6 +491,21 @@
 
 
 
+
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#log-in-for-the-first-time">Log in for the first time</a></li>
+        <li><a href="#add-data-source">Add Data Source</a></li>
+        <li><a href="#create-alert-conditions">Create Alert Conditions</a></li>
+        <li><a href="#add-job-using-grafana-add-job-flow">Add Job Using Grafana Add Job Flow</a></li>
+        <li><a href="#training-and-inference">Training and Inference</a></li>
+        <li><a href="#alert-notifications">Alert Notifications</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 
 
 
@@ -523,7 +540,7 @@
 	<h1>Quick Start</h1>
 	
 	<p>Let’s walk through the end-to-end functionality of <strong>AlertLens</strong>.</p>
-<h4 id="log-in-for-the-first-time">Log in for the first time</h4>
+<h3 id="log-in-for-the-first-time">Log in for the first time</h3>
 <ol>
 <li>
 <p>Go to <a href="https://test1.alertlens.boltanalytics.com">https://test1.alertlens.boltanalytics.com</a>.</p>
@@ -537,7 +554,7 @@
 <p>You will be redirected to the screen displaying the list of <strong>Data Sources</strong>.</p>
 </li>
 </ol>
-<h4 id="add-data-source">Add Data Source</h4>
+<h3 id="add-data-source">Add Data Source</h3>
 <p>Let’s configure the data sources from which <strong>AlertLens</strong> gathers metrics for creating alerts. You can add freely available Grafana Wikimedia as a data source <a href="https://grafana.wikimedia.org:">https://grafana.wikimedia.org:</a></p>
 <ol start="4">
 <li>
@@ -552,7 +569,7 @@
 A Data Source is configured.</p>
 </li>
 </ol>
-<h4 id="create-alert-conditions">Create Alert Conditions</h4>
+<h3 id="create-alert-conditions">Create Alert Conditions</h3>
 <p>Before creating a job, perform the following steps required to create alert conditions:</p>
 <ol start="6">
 <li>
@@ -575,7 +592,7 @@ A Data Source is configured.</p>
 <p>Click the <strong>Submit</strong> button and <strong>Alert Condition</strong> is created.</p>
 </li>
 </ol>
-<h4 id="add-job-using-grafana-add-job-flow">Add Job Using Grafana Add Job Flow</h4>
+<h3 id="add-job-using-grafana-add-job-flow">Add Job Using Grafana Add Job Flow</h3>
 <ol start="9">
 <li>
 <p>Open <a href="https://grafana.wikimedia.org/d/000000278/mysql-aggregated?orgId=1">https://grafana.wikimedia.org/d/000000278/mysql-aggregated?orgId=1</a> in another browser tab.</p>
@@ -621,7 +638,7 @@ A Data Source is configured.</p>
 <p>Now, it will gather data from the <strong>Data Source</strong> and then perform <strong>Training</strong> and start <strong>Inference</strong>.</p>
 </li>
 </ol>
-<h4 id="training-and-inference">Training and Inference</h4>
+<h3 id="training-and-inference">Training and Inference</h3>
 <p>By default, the <strong>Training</strong> and <strong>Inference</strong> are turned off.</p>
 <ol start="20">
 <li>
@@ -629,7 +646,7 @@ A Data Source is configured.</p>
 <p>By default, it goes back and gets 4 weeks of historical data (as shown in the <strong>Scheduled for</strong> column above). It takes about an hour. You can monitor the status in the <strong>Summarizer</strong> sub-tab. The whole process probably takes around an hour.</p>
 </li>
 </ol>
-<h4 id="alert-notifications">Alert Notifications</h4>
+<h3 id="alert-notifications">Alert Notifications</h3>
 <p>After Training and Inference has caught up to the current time, perform the following steps to set <strong>Alert Notifications</strong>:</p>
 <ol start="21">
 <li>
