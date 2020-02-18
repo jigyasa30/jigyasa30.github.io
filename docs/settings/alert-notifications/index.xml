@@ -15,11 +15,88 @@
     
     
     <item>
-      <title>Docs: Notification Channels Configuration</title>
-      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/channel_config/</link>
+      <title>Docs: AWS SNS</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/aws_sns/</link>
       <pubDate>Wed, 12 Feb 2020 16:36:17 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/channel_config/</guid>
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/aws_sns/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Email Settings</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/email/</link>
+      <pubDate>Tue, 18 Feb 2020 12:11:19 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/email/</guid>
+      <description>
+        
+        
+        &lt;p&gt;To enable email notifications you have to setup SMTP settings.&lt;/p&gt;
+&lt;h3 id=&#34;gmail&#34;&gt;Gmail&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Fields&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Settings&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;SMTP Server&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;smtp.gmail.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Port&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;465 (SSL required) or 587 (TLS required)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Username&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Your Gmail username&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Password&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Your Gmail password&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Sender&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Receiver(s)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;office-365&#34;&gt;Office 365&lt;/h3&gt;
+&lt;h3 id=&#34;yahoo-mail&#34;&gt;Yahoo Mail&lt;/h3&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Pager Duty</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/pager_duty/</link>
+      <pubDate>Tue, 18 Feb 2020 12:11:45 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/pager_duty/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Slack</title>
+      <link>https://jigyasa30.github.io/docs/settings/alert-notifications/slack/</link>
+      <pubDate>Tue, 18 Feb 2020 12:11:52 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/settings/alert-notifications/slack/</guid>
       <description>
         
         
