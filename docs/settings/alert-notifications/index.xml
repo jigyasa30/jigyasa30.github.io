@@ -37,12 +37,13 @@
         
         
         &lt;p&gt;To enable email notifications you have to setup SMTP settings.&lt;/p&gt;
-&lt;h3 id=&#34;gmail&#34;&gt;Gmail&lt;/h3&gt;
+&lt;h3 id=&#34;gmail&#34;&gt;&lt;strong&gt;Gmail&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Following table describes the fields with values to set your &lt;strong&gt;Gmail&lt;/strong&gt; account for &lt;a href=&#34;https://jigyasa30.github.io/docs/settings/alert-notifications/&#34;&gt;&lt;strong&gt;Alert Notifications&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;Fields&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Settings&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Values&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -60,7 +61,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;Password&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Your Gmail password&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Your AlertLens password for Gmail&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;Sender&lt;/td&gt;
@@ -72,8 +73,46 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;office-365&#34;&gt;Office 365&lt;/h3&gt;
-&lt;h3 id=&#34;yahoo-mail&#34;&gt;Yahoo Mail&lt;/h3&gt;
+&lt;p&gt;To generate your &lt;strong&gt;AlertLens Password&lt;/strong&gt;, perform the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Log in to your &lt;strong&gt;Gmail&lt;/strong&gt; account.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click the &lt;strong&gt;Google Account&lt;/strong&gt; icon on the top right corner of the screen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click the &lt;img src=&#34;https://jigyasa30.github.io/mng_goog_acc.JPG&#34; alt=&#34;img&#34;&gt; button.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click &lt;strong&gt;Security&lt;/strong&gt; in the left navigation pane.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Go to &lt;strong&gt;Signing in to Google&lt;/strong&gt; section and enable &lt;strong&gt;2-Step Verification&lt;/strong&gt; by following the online instructions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now, go back to &lt;strong&gt;Signing in to Google&lt;/strong&gt; section and click &lt;strong&gt;App passwords.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Choose &lt;strong&gt;Other (*Custom name*)&lt;/strong&gt; option from the &lt;strong&gt;Select app&lt;/strong&gt; drop-down list.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/app_password.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enter custom name as &lt;strong&gt;AlertLens&lt;/strong&gt; and click the &lt;strong&gt;GENERATE&lt;/strong&gt; button.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/select_app.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Copy the &lt;strong&gt;app password&lt;/strong&gt; and follow the written instructions and click &lt;strong&gt;DONE&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/generated_password.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Go back to &lt;strong&gt;AlertLens&lt;/strong&gt;, fill in all the fields as described above to configure the email and click the &lt;strong&gt;Test&lt;/strong&gt; button.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congrats!&lt;/strong&gt; Your email account has been configured.&lt;/p&gt;
+&lt;p&gt;Shortly, you will receive an email on the configured email address.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;office-365&#34;&gt;&lt;strong&gt;Office 365&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;yahoo-mail&#34;&gt;&lt;strong&gt;Yahoo Mail&lt;/strong&gt;&lt;/h3&gt;
 
       </description>
     </item>

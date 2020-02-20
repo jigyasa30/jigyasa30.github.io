@@ -35,8 +35,8 @@
 
 
 
-<link rel="preload" href="/scss/main.min.c1d2c22dc83a0440e30e71ae3e14916b54b1d17717eeb373c1963deb654f5a88.css" as="style">
-<link href="/scss/main.min.c1d2c22dc83a0440e30e71ae3e14916b54b1d17717eeb373c1963deb654f5a88.css" rel="stylesheet" integrity="">
+<link rel="preload" href="/scss/main.min.8d1d97cdbcf5383da672861078c554388fa3f9f0dd2050ba20e74209183b7ea5.css" as="style">
+<link href="/scss/main.min.8d1d97cdbcf5383da672861078c554388fa3f9f0dd2050ba20e74209183b7ea5.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -487,39 +487,16 @@
             
 
 
-
-
-
-
-<div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
-
-
-
-
-
-<a href="https://github.com/google/docsy-example/edit/master/content/en/docs/Quickstart/_index.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
-<a href="https://github.com/google/docsy-example/issues/new?title=Quick%20Start" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
-
-
-<a href="https://github.com/google/docsy/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
-
-</div>
-
-
-
-
-
-
 <nav id="TableOfContents">
   <ul>
     <li>
       <ul>
-        <li><a href="#log-in-for-the-first-time">Log in for the first time</a></li>
-        <li><a href="#add-data-source">Add Data Source</a></li>
-        <li><a href="#create-alert-conditions">Create Alert Conditions</a></li>
-        <li><a href="#add-job-using-grafana-add-job-flow">Add Job Using Grafana Add Job Flow</a></li>
-        <li><a href="#training-and-inference">Training and Inference</a></li>
-        <li><a href="#alert-notifications">Alert Notifications</a></li>
+        <li><a href="#step-1-log-in-for-the-first-time">Step 1: Log in for the first time</a></li>
+        <li><a href="#step-2-add-data-source">Step 2: Add Data Source</a></li>
+        <li><a href="#step-3-create-alert-conditions">Step 3: Create Alert Conditions</a></li>
+        <li><a href="#step-4-add-job-using-grafana-add-job-flow">Step 4: Add Job Using Grafana Add Job Flow</a></li>
+        <li><a href="#step-5-training-and-inference">Step 5: Training and Inference</a></li>
+        <li><a href="#step-6-alert-notifications">Step 6: Alert Notifications</a></li>
       </ul>
     </li>
   </ul>
@@ -558,7 +535,7 @@
 	<h1>Quick Start</h1>
 	
 	<p>Let’s walk through the end-to-end functionality of <strong>AlertLens</strong>.</p>
-<h3 id="log-in-for-the-first-time">Log in for the first time</h3>
+<h3 id="step-1-log-in-for-the-first-time">Step 1: Log in for the first time</h3>
 <ol>
 <li>
 <p>Go to the <strong>AlertLens URL</strong> provided to you.</p>
@@ -572,9 +549,9 @@
 <p>You will be redirected to the screen displaying the list of <strong>Data Sources</strong>.</p>
 </li>
 </ol>
-<h3 id="add-data-source">Add Data Source</h3>
+<h3 id="step-2-add-data-source">Step 2: Add Data Source</h3>
 <p>Let’s configure the data sources from which <strong>AlertLens</strong> gathers metrics for creating alerts. As an example for the quick start, let's add a panel from one of the Grafana (open source) dashboards at <a href="https://grafana.wikimedia.org">https://grafana.wikimedia.org</a>.</p>
-<ol start="4">
+<ol>
 <li>
 <p>Click the <strong>Add</strong> button next to the Grafana data source.</p>
 <p>A pop up appears.</p>
@@ -587,9 +564,9 @@
 A <strong>Data Source</strong> is configured.</p>
 </li>
 </ol>
-<h3 id="create-alert-conditions">Create Alert Conditions</h3>
+<h3 id="step-3-create-alert-conditions">Step 3: Create Alert Conditions</h3>
 <p>Before creating a job, perform the following steps required to create alert conditions:</p>
-<ol start="6">
+<ol>
 <li>
 <p>Click the <strong>Gearbox</strong> icon <img src="/gearbox.JPG" alt="img"> in the top right corner of the screen, select <strong>Alert</strong> -&gt; <strong>Definitions</strong> and click the <strong>Add</strong> button.</p>
 <p>The <strong>Add Alert</strong> pop up appears.</p>
@@ -610,8 +587,8 @@ A <strong>Data Source</strong> is configured.</p>
 <p>Click the <strong>Submit</strong> button and <strong>Alert Condition</strong> is created.</p>
 </li>
 </ol>
-<h3 id="add-job-using-grafana-add-job-flow">Add Job Using Grafana Add Job Flow</h3>
-<ol start="9">
+<h3 id="step-4-add-job-using-grafana-add-job-flow">Step 4: Add Job Using Grafana Add Job Flow</h3>
+<ol>
 <li>
 <p>Open <a href="https://grafana.wikimedia.org/d/000000278/mysql-aggregated?orgId=1">https://grafana.wikimedia.org/d/000000278/mysql-aggregated?orgId=1</a> in another browser tab.</p>
 <p>Let’s add the panel - <strong>Rows read</strong> in this dashboard as a job.</p>
@@ -637,10 +614,20 @@ A <strong>Data Source</strong> is configured.</p>
 </li>
 <li>
 <p>Enter the following values in the <strong>Variables</strong> text boxes:</p>
-<p>a.   <strong>Datacenter</strong>: eqiad prometheus/ops</p>
-<p>b.   <strong>Group</strong>: .*</p>
-<p>c.    <strong>Shard</strong>: .*</p>
-<p>d.   <strong>Role</strong>: .*</p>
+<ul>
+<li>
+<p><strong>Datacenter</strong>: eqiad prometheus/ops</p>
+</li>
+<li>
+<p><strong>Group</strong>: .*</p>
+</li>
+<li>
+<p><strong>Shard</strong>: .*</p>
+</li>
+<li>
+<p><strong>Role</strong>: .*</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Select <strong>Sharp Spike</strong> as the alert.</p>
@@ -656,17 +643,17 @@ A <strong>Data Source</strong> is configured.</p>
 <p>Now, it will gather data from the <strong>Data Source</strong> and then perform <strong>Training</strong> and start <strong>Inference</strong>.</p>
 </li>
 </ol>
-<h3 id="training-and-inference">Training and Inference</h3>
+<h3 id="step-5-training-and-inference">Step 5: Training and Inference</h3>
 <p>By default, the <strong>Training</strong> and <strong>Inference</strong> are turned off.</p>
-<ol start="20">
+<ul>
 <li>
 <p>Go to the <strong>Training</strong> and <strong>Inference</strong> tabs and click the <strong>Start All</strong> button.</p>
 <p>By default, it goes back and gets 4 weeks of historical data (as shown in the <strong>Scheduled for</strong> column above). It takes about an hour. You can monitor the status in the <strong>Summarizer</strong> sub-tab. The whole process probably takes around an hour.</p>
 </li>
-</ol>
-<h3 id="alert-notifications">Alert Notifications</h3>
+</ul>
+<h3 id="step-6-alert-notifications">Step 6: Alert Notifications</h3>
 <p>After Training and Inference has caught up to the current time, perform the following steps to set <a href="/docs/settings/alert-notifications/"><strong>Alert Notifications</strong></a>:</p>
-<ol start="21">
+<ol>
 <li>
 <p>Go to <strong>Dashboard</strong> -&gt; <strong>Alert History</strong> and see what Alerts have been triggered.</p>
 </li>
@@ -708,19 +695,19 @@ A <strong>Data Source</strong> is configured.</p>
 <ul class="list-inline mb-0">
   
   <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="User mailing list" aria-label="User mailing list">
-    <a class="text-white" target="_blank" href="https://example.org/mail">
+    <a class="text-white" target="_blank" href="">
       <i class="fa fa-envelope"></i>
     </a>
   </li>
   
   <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="Twitter" aria-label="Twitter">
-    <a class="text-white" target="_blank" href="https://example.org/twitter">
+    <a class="text-white" target="_blank" href="">
       <i class="fab fa-twitter"></i>
     </a>
   </li>
   
   <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="Stack Overflow" aria-label="Stack Overflow">
-    <a class="text-white" target="_blank" href="https://example.org/stack">
+    <a class="text-white" target="_blank" href="">
       <i class="fab fa-stack-overflow"></i>
     </a>
   </li>

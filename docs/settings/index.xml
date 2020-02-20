@@ -64,7 +64,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Click &lt;strong&gt;Test&lt;/strong&gt; to make sure it works. Click &lt;strong&gt;Save&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Congrats! The &lt;strong&gt;Alert Notification&lt;/strong&gt; is created.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congrats!&lt;/strong&gt; The Alert Notification is created.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -100,7 +100,7 @@
     <item>
       <title>Docs: Reconfigure Data Source</title>
       <link>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2020 16:36:42 +0530</pubDate>
       
       <guid>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/</guid>
       <description>
