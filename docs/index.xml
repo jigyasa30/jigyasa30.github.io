@@ -14,19 +14,6 @@
     
     
     <item>
-      <title>Docs: Dry Run</title>
-      <link>https://jigyasa30.github.io/docs/quickstart/dry_run/</link>
-      <pubDate>Wed, 12 Feb 2020 16:42:42 +0530</pubDate>
-      
-      <guid>https://jigyasa30.github.io/docs/quickstart/dry_run/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: AWS SNS</title>
       <link>https://jigyasa30.github.io/docs/settings/alert-notifications/aws_sns/</link>
       <pubDate>Wed, 12 Feb 2020 16:36:17 +0530</pubDate>
@@ -182,19 +169,6 @@
     </item>
     
     <item>
-      <title>Docs: Anomaly Detection Options</title>
-      <link>https://jigyasa30.github.io/docs/quickstart/anomal_det_opt/</link>
-      <pubDate>Wed, 12 Feb 2020 16:42:57 +0530</pubDate>
-      
-      <guid>https://jigyasa30.github.io/docs/quickstart/anomal_det_opt/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Training</title>
       <link>https://jigyasa30.github.io/docs/job-status/training/</link>
       <pubDate>Wed, 12 Feb 2020 15:38:28 +0530</pubDate>
@@ -234,6 +208,19 @@
     </item>
     
     <item>
+      <title>Docs: Dry Run</title>
+      <link>https://jigyasa30.github.io/docs/job_workflows/dry_run/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job_workflows/dry_run/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Pager Duty</title>
       <link>https://jigyasa30.github.io/docs/settings/alert-notifications/pager_duty/</link>
       <pubDate>Tue, 18 Feb 2020 12:11:45 +0530</pubDate>
@@ -265,6 +252,19 @@
       <pubDate>Wed, 12 Feb 2020 15:38:36 +0530</pubDate>
       
       <guid>https://jigyasa30.github.io/docs/job-status/inference/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Anomaly Detection Options</title>
+      <link>https://jigyasa30.github.io/docs/job_workflows/anomal_det_opt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job_workflows/anomal_det_opt/</guid>
       <description>
         
         
@@ -334,6 +334,22 @@
         
         
         
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Job Work Flows</title>
+      <link>https://jigyasa30.github.io/docs/job_workflows/job_workflow/</link>
+      <pubDate>Fri, 21 Feb 2020 11:49:02 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job_workflows/job_workflow/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;splunk-easy-flow&#34;&gt;Splunk Easy flow&lt;/h3&gt;
+&lt;h3 id=&#34;grafana-easy-flow&#34;&gt;Grafana Easy flow&lt;/h3&gt;
+&lt;h3 id=&#34;advanced-flow&#34;&gt;Advanced Flow&lt;/h3&gt;
+
       </description>
     </item>
     

@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/quickstart/dry_run/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jigyasa30.github.io/docs/settings/alert-notifications/aws_sns/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
   </url>
@@ -39,12 +34,7 @@
   
   <url>
     <loc>https://jigyasa30.github.io/docs/settings/alert-notifications/email/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jigyasa30.github.io/docs/quickstart/anomal_det_opt/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+    <lastmod>2020-02-20T21:27:30+05:30</lastmod>
   </url>
   
   <url>
@@ -73,6 +63,10 @@
   </url>
   
   <url>
+    <loc>https://jigyasa30.github.io/docs/job_workflows/dry_run/</loc>
+  </url>
+  
+  <url>
     <loc>https://jigyasa30.github.io/docs/settings/alert-notifications/pager_duty/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
   </url>
@@ -85,6 +79,10 @@
   <url>
     <loc>https://jigyasa30.github.io/docs/job-status/inference/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jigyasa30.github.io/docs/job_workflows/anomal_det_opt/</loc>
   </url>
   
   <url>
@@ -148,6 +146,11 @@
   </url>
   
   <url>
+    <loc>https://jigyasa30.github.io/docs/job_workflows/job_workflow/</loc>
+    <lastmod>2020-02-21T11:49:02+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
   </url>
@@ -175,6 +178,10 @@
   <url>
     <loc>https://jigyasa30.github.io/about/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jigyasa30.github.io/home/</loc>
   </url>
   
   <url>
