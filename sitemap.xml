@@ -18,8 +18,8 @@
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+    <loc>https://jigyasa30.github.io/docs/dashboard/alerts_history/</loc>
+    <lastmod>2020-02-12T15:26:26+05:30</lastmod>
   </url>
   
   <url>
@@ -33,6 +33,10 @@
   </url>
   
   <url>
+    <loc>https://jigyasa30.github.io/docs/job-workflows/dry_run/</loc>
+  </url>
+  
+  <url>
     <loc>https://jigyasa30.github.io/docs/settings/alert-notifications/email/</loc>
     <lastmod>2020-02-20T21:27:30+05:30</lastmod>
   </url>
@@ -43,8 +47,8 @@
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+    <loc>https://jigyasa30.github.io/docs/dashboard/alerts_screener/</loc>
+    <lastmod>2020-02-12T15:26:26+05:30</lastmod>
   </url>
   
   <url>
@@ -63,7 +67,7 @@
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/job_workflows/dry_run/</loc>
+    <loc>https://jigyasa30.github.io/docs/job-workflows/anomal_det_opt/</loc>
   </url>
   
   <url>
@@ -82,10 +86,6 @@
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/job_workflows/anomal_det_opt/</loc>
-  </url>
-  
-  <url>
     <loc>https://jigyasa30.github.io/docs/login/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
   </url>
@@ -101,18 +101,17 @@
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/features/dashboard/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jigyasa30.github.io/docs/features/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+    <loc>https://jigyasa30.github.io/docs/dashboard/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jigyasa30.github.io/docs/job-status/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jigyasa30.github.io/docs/job-workflows/</loc>
   </url>
   
   <url>
@@ -146,23 +145,13 @@
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/job_workflows/job_workflow/</loc>
-    <lastmod>2020-02-21T11:49:02+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jigyasa30.github.io/docs/features/time_window/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jigyasa30.github.io/docs/features/alertlens_search/</loc>
-    <lastmod>2020-02-20T21:03:36+05:30</lastmod>
+    <loc>https://jigyasa30.github.io/docs/alertlens_search/</loc>
+    <lastmod>2020-02-12T15:23:06+05:30</lastmod>
   </url>
   
   <url>
@@ -178,10 +167,6 @@
   <url>
     <loc>https://jigyasa30.github.io/about/</loc>
     <lastmod>2020-02-20T21:03:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jigyasa30.github.io/home/</loc>
   </url>
   
   <url>

@@ -1,0 +1,77 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation – Dashboard</title>
+    <link>https://jigyasa30.github.io/docs/dashboard/</link>
+    <description>Recent content in Dashboard on Technical Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://jigyasa30.github.io/docs/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Alerts History</title>
+      <link>https://jigyasa30.github.io/docs/dashboard/alerts_history/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:26 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/dashboard/alerts_history/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Alerts History allows you to see all the alerts in a chosen Time Window for the defined Jobs. The alert history is displayed on the &lt;a href=&#34;https://jigyasa30.github.io/docs/dashboard/&#34;&gt;Dashboard&lt;/a&gt; in the tabular format.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/alert_history.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;table-description&#34;&gt;Table Description&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Field&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;&lt;/td&gt;
+&lt;td&gt;Drills-down to a detailed analysis of each alert.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Last alert&lt;/td&gt;
+&lt;td&gt;Time and date of the last alert.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Name of the alert. It can be user-defined or system generated. It is hyperlinked and navigates to the &lt;a href=&#34;https://jigyasa30.github.io/docs/dashboard/alerts_screener/&#34;&gt;Alerts      Screener&lt;/a&gt; screen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Group&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Status&lt;/td&gt;
+&lt;td&gt;The Severity of the alert based on the defined values in the &lt;a href=&#34;https://jigyasa30.github.io/docs/settings/alert_definitions/&#34;&gt;Alert Definitions&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alerts Screener</title>
+      <link>https://jigyasa30.github.io/docs/dashboard/alerts_screener/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:26 +0530</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/dashboard/alerts_screener/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

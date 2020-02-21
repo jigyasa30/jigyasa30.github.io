@@ -54,14 +54,47 @@
     
     <item>
       <title>Docs: Alerts History</title>
-      <link>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</link>
-      <pubDate>Wed, 12 Feb 2020 15:26:20 +0530</pubDate>
+      <link>https://jigyasa30.github.io/docs/dashboard/alerts_history/</link>
+      <pubDate>Wed, 12 Feb 2020 15:26:26 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/features/dashboard/alerts_history/</guid>
+      <guid>https://jigyasa30.github.io/docs/dashboard/alerts_history/</guid>
       <description>
         
         
-        
+        &lt;p&gt;The Alerts History allows you to see all the alerts in a chosen Time Window for the defined Jobs. The alert history is displayed on the &lt;a href=&#34;https://jigyasa30.github.io/docs/dashboard/&#34;&gt;Dashboard&lt;/a&gt; in the tabular format.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jigyasa30.github.io/alert_history.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;table-description&#34;&gt;Table Description&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Field&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;&lt;/td&gt;
+&lt;td&gt;Drills-down to a detailed analysis of each alert.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Last alert&lt;/td&gt;
+&lt;td&gt;Time and date of the last alert.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Name of the alert. It can be user-defined or system generated. It is hyperlinked and navigates to the &lt;a href=&#34;https://jigyasa30.github.io/docs/dashboard/alerts_screener/&#34;&gt;Alerts      Screener&lt;/a&gt; screen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Group&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Status&lt;/td&gt;
+&lt;td&gt;The Severity of the alert based on the defined values in the &lt;a href=&#34;https://jigyasa30.github.io/docs/settings/alert_definitions/&#34;&gt;Alert Definitions&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
       </description>
     </item>
     
@@ -71,6 +104,19 @@
       <pubDate>Wed, 12 Feb 2020 15:19:11 +0530</pubDate>
       
       <guid>https://jigyasa30.github.io/docs/installation/ami_model/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dry Run</title>
+      <link>https://jigyasa30.github.io/docs/job-workflows/dry_run/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jigyasa30.github.io/docs/job-workflows/dry_run/</guid>
       <description>
         
         
@@ -183,10 +229,10 @@
     
     <item>
       <title>Docs: Alerts Screener</title>
-      <link>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</link>
+      <link>https://jigyasa30.github.io/docs/dashboard/alerts_screener/</link>
       <pubDate>Wed, 12 Feb 2020 15:26:26 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/features/dashboard/alerts_screener/</guid>
+      <guid>https://jigyasa30.github.io/docs/dashboard/alerts_screener/</guid>
       <description>
         
         
@@ -208,11 +254,11 @@
     </item>
     
     <item>
-      <title>Docs: Dry Run</title>
-      <link>https://jigyasa30.github.io/docs/job_workflows/dry_run/</link>
+      <title>Docs: Anomalous Detection Options</title>
+      <link>https://jigyasa30.github.io/docs/job-workflows/anomal_det_opt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/job_workflows/dry_run/</guid>
+      <guid>https://jigyasa30.github.io/docs/job-workflows/anomal_det_opt/</guid>
       <description>
         
         
@@ -252,19 +298,6 @@
       <pubDate>Wed, 12 Feb 2020 15:38:36 +0530</pubDate>
       
       <guid>https://jigyasa30.github.io/docs/job-status/inference/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Anomaly Detection Options</title>
-      <link>https://jigyasa30.github.io/docs/job_workflows/anomal_det_opt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jigyasa30.github.io/docs/job_workflows/anomal_det_opt/</guid>
       <description>
         
         
@@ -338,22 +371,6 @@
     </item>
     
     <item>
-      <title>Docs: Job Work Flows</title>
-      <link>https://jigyasa30.github.io/docs/job_workflows/job_workflow/</link>
-      <pubDate>Fri, 21 Feb 2020 11:49:02 +0530</pubDate>
-      
-      <guid>https://jigyasa30.github.io/docs/job_workflows/job_workflow/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;splunk-easy-flow&#34;&gt;Splunk Easy flow&lt;/h3&gt;
-&lt;h3 id=&#34;grafana-easy-flow&#34;&gt;Grafana Easy flow&lt;/h3&gt;
-&lt;h3 id=&#34;advanced-flow&#34;&gt;Advanced Flow&lt;/h3&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Data Source Authentication Parameters</title>
       <link>https://jigyasa30.github.io/docs/settings/reconfigure-data-source/data_source_auth_params/</link>
       <pubDate>Wed, 12 Feb 2020 16:36:42 +0530</pubDate>
@@ -367,24 +384,11 @@
     </item>
     
     <item>
-      <title>Docs: Time Window</title>
-      <link>https://jigyasa30.github.io/docs/features/time_window/</link>
-      <pubDate>Wed, 12 Feb 2020 15:23:23 +0530</pubDate>
-      
-      <guid>https://jigyasa30.github.io/docs/features/time_window/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Search</title>
-      <link>https://jigyasa30.github.io/docs/features/alertlens_search/</link>
+      <link>https://jigyasa30.github.io/docs/alertlens_search/</link>
       <pubDate>Wed, 12 Feb 2020 15:23:06 +0530</pubDate>
       
-      <guid>https://jigyasa30.github.io/docs/features/alertlens_search/</guid>
+      <guid>https://jigyasa30.github.io/docs/alertlens_search/</guid>
       <description>
         
         
